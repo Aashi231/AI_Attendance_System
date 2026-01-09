@@ -1,0 +1,11 @@
+
+
+venv/
+__pycache__/
+dataset/
+models/*.pt
+models/*.pkl
+logs/
+*.csv
+*.jpg
+*.png
